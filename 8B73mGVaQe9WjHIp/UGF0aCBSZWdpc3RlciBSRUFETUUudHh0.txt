@@ -1,0 +1,5 @@
+uGet Auto-register require Mono/.Net 2.0 or later to run.
+
+The file named "Path Register.exe" should be placed anywhere in uGet directory (No matter it's "bin" or "config" or "etc" or their parent directory !)
+But the other one ("Path Remove.exe") works fine everywhere.
+Due to their nature they should be run as Administrator to do their job,?? Else user will see a message requesting him/her to run them as Administrator.
