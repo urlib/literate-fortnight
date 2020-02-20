@@ -1,0 +1,8 @@
+HOWTO install uGet manually.
+
+  The environment variable "PATH" must include GTK+ 3.4 or above runtime library path.
+For Example, if you install GTK+ 3.4 runtime library in "C:\GTK3", you must add
+"C:\GTK3\bin" or "C:\GTK3\lib" to PATH.
+
+  You can also edit uget-path.reg and double click it to setup program location and path.
+
