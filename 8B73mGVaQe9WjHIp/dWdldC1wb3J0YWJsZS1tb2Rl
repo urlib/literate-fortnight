@@ -1,0 +1,4 @@
+If you want to enable uGet portable mode:
+
+You can move this file into "bin" directory, 
+uGet will save all configuration files in uget.exe installed directory.
